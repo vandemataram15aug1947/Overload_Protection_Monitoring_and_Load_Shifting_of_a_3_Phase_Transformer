@@ -1,7 +1,5 @@
 # Overload_Protection_Monitoring_and_Load_Shifting_of_a_3_Phase_Transformer
 
-# Overload Protection, Monitoring, and Load Shifting of a 3-Phase Transformer
-
 ## 📘 Overview
 
 This project focuses on the **overload protection**, **real-time monitoring**, and **intelligent load shifting** mechanisms for a **3-phase distribution transformer**. With increasing and often unpredictable demand on power distribution networks, especially at the low-voltage end, transformers are at risk of **overheating**, **overloading**, and **premature failure**. This project proposes a practical approach to manage these challenges using smart sensing, protection logic, and dynamic load control.
